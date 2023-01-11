@@ -1,6 +1,6 @@
 # Justin Berg Official Regex URL Tutorial
 
-Introductory paragraph (replace this with your text)
+In this markdown tutorial, I will walk you through the details of a regular expression that is used to search for url's.  
 
 ## Summary
 
